@@ -6,7 +6,3 @@ THIS IS A MY PROJECT 👻
     </center>
 
 <button><div><a href="#Panduan">EMERGENCY</a></div></button>
-
-
-![lagu](https://github.com/user-attachments/assets/bf4e8e30-98eb-46a7-a1c0-3d6c19eed72f).
-
